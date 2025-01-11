@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project provides a solution to create a bell curve for performance appraisal based on employee details, rating categories, and appraisal ranges. The application calculates the actual percentage distribution of employees across various performance categories, calculates deviations from standard percentages, and suggests adjustments for overrepresented categories. The backend is built using Spring Boot for the server-side logic, and the frontend is a simple React.js application for visualizing the data.
